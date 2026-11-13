@@ -6,7 +6,7 @@ workers_dev = true
 
 [[kv_namespaces]]
 binding = "SUBS"
-id = "REPLACE_WITH_KV_ID"
+id = "48b24c8fbf3f4ba68747e7a209c5f7e2"
 
 [vars]
 ALLOWED_ORIGIN = "https://mozesor.github.io"

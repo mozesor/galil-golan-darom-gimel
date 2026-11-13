@@ -13,5 +13,9 @@
     "repo": "mozesor/galil-golan-darom-gimel",
     "url": "https://mozesor.github.io/galil-golan-darom-gimel/",
     "icsId": "galil-golan-darom-gimel"
+  },
+  "push": {
+    "server": "https://galil-push-darom-gimel.mozesor.workers.dev",
+    "vapidPublicKey": "BKbnKBSWPb-HWxsdqCALtUgVUaasMWsoYuheR_5898bVbIUmpemOGEMUkMV3zlVIOetLsxB4TnjTapU6LW64JpE"
   }
 }

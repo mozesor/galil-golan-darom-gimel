@@ -5,7 +5,7 @@
     "name": "ליגת ילדים ג' מפרץ 1",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-13T15:18:16.802Z",
+  "fetchedAt": "2026-11-13T21:28:12.348Z",
   "teams": [
     {
       "id": "68e7921aa180068a8c338a5d",
@@ -394,18 +394,18 @@
       "id": "6acc33789878872a963a1687",
       "date": "2026-11-13T13:00:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adef95",
         "pid": 7191,
         "name": "מ.ס. חיפה רובי שפירא 2",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68d612211b7b720e58adef8f",
         "pid": 3757,
         "name": "מ.ס. שפרעם",
-        "goals": null
+        "goals": 5
       }
     },
     {
@@ -2150,6 +2150,19 @@
     },
     {
       "rank": 10,
+      "id": "68d612211b7b720e58adef8f",
+      "name": "מ.ס. שפרעם",
+      "games": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "gf": 10,
+      "ga": 11,
+      "gd": -1,
+      "points": 3
+    },
+    {
+      "rank": 11,
       "id": "6ab9c8e2068ef07a1cafbc2a",
       "name": "מכבי ס.מעלות תרשיחא 2 צו פיוס",
       "games": 2,
@@ -2162,7 +2175,7 @@
       "points": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "68e7921aa180068a8c338a5e",
       "name": "מ.ס. צעירי חיפה",
       "games": 2,
@@ -2173,19 +2186,6 @@
       "ga": 9,
       "gd": -5,
       "points": 3
-    },
-    {
-      "rank": 12,
-      "id": "68d612211b7b720e58adef95",
-      "name": "מ.ס. חיפה רובי שפירא 2",
-      "games": 2,
-      "wins": 0,
-      "draws": 1,
-      "losses": 1,
-      "gf": 7,
-      "ga": 8,
-      "gd": -1,
-      "points": 1
     },
     {
       "rank": 13,
@@ -2202,16 +2202,16 @@
     },
     {
       "rank": 14,
-      "id": "68d612211b7b720e58adef8f",
-      "name": "מ.ס. שפרעם",
-      "games": 2,
+      "id": "68d612211b7b720e58adef95",
+      "name": "מ.ס. חיפה רובי שפירא 2",
+      "games": 3,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
-      "gf": 5,
-      "ga": 9,
+      "gf": 9,
+      "ga": 13,
       "gd": -4,
-      "points": 0
+      "points": 1
     },
     {
       "rank": 15,

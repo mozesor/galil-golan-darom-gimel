@@ -1,0 +1,17 @@
+{
+  "leagueId": 1364,
+  "leagueName": "ליגת ילדים ג׳ מפרץ 1",
+  "team": {
+    "displayName": "גליל גולן דרום",
+    "match": "גליל גולן דרום",
+    "short": "גליל",
+    "exclude": ""
+  },
+  "site": {
+    "title": "גליל גולן דרום | ילדים ג׳",
+    "whatsappFooter": "נשלח מלוח המשחקים של הקבוצה",
+    "repo": "mozesor/galil-golan-darom-gimel",
+    "url": "https://mozesor.github.io/galil-golan-darom-gimel/",
+    "icsId": "galil-golan-darom-gimel"
+  }
+}

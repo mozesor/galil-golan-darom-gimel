@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//galil-golan-darom-gimel//he
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:גליל גולן דרום | משחקים
+X-WR-TIMEZONE:Asia/Jerusalem
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6acc33779878872a963a1661@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד נוה יוסף 2 0:1 (בית
+ )
+DTSTART:20261019T163000Z
+DTEND:20261019T180000Z
+LOCATION:צפת
+DESCRIPTION:מחזור 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33779878872a963a167c@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד צעירי חיפה 7:1 (בי
+ ת)
+DTSTART:20261101T150000Z
+DTEND:20261101T163000Z
+LOCATION:צפת
+DESCRIPTION:מחזור 3
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33779878872a963a1669@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד הפועל עמק הירדן 
+ 1:3 (חוץ)
+DTSTART:20261106T103000Z
+DTEND:20261106T120000Z
+LOCATION:קיבוץ מעגן
+DESCRIPTION:מחזור 2
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a1686@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד רשת מתנסים טבעו
+ ן (בית)
+DTSTART:20261122T170000Z
+DTEND:20261122T183000Z
+LOCATION:צפת
+DESCRIPTION:מחזור 4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:משחק בעוד שעתיים
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a1697@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד חיפה רובי שפירא 
+ 2 (בית) | מועד משוער
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:מחזור 5\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a16a3@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד מטה אשר 2 (חוץ) | מ
+ ועד משוער
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DESCRIPTION:מחזור 6\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a16c2@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד מכבי ס.מעלות תרש
+ יחא 2 (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DESCRIPTION:מחזור 8\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a16cb@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד מכבי עירוני ק. א
+ תא 2 (בית) | מועד משוער
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DESCRIPTION:מחזור 9\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a16e0@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד מכבי נווה שאנן א
+ לדד (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+DESCRIPTION:מחזור 10\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a16e5@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד ביתר חיפה (בית) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DESCRIPTION:מחזור 11\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a16fd@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד שפרעם (חוץ) | מוע
+ ד משוער
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+DESCRIPTION:מחזור 12\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a1700@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד כבביר (בית) | מוע
+ ד משוער
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+DESCRIPTION:מחזור 13\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a1719@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד צופי חיפה (בית) | 
+ מועד משוער
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+DESCRIPTION:מחזור 14\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc33789878872a963a171e@galil-golan-darom-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן דרום נגד הפועל ע. כרמיאל 2
+  (חוץ) | מועד משוער
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DESCRIPTION:מחזור 15\nמועד משוער: השעה טרם פורסמ
+ ה והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+END:VCALENDAR

@@ -1,11 +1,17 @@
 {
-  "rankChange": null,
+  "rankChange": {
+    "from": 6,
+    "to": 7,
+    "points": 3,
+    "round": 4,
+    "at": "2026-11-14T14:11:54.454Z"
+  },
   "league": {
     "id": 1364,
     "name": "ליגת ילדים ג' מפרץ 1",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-13T21:28:12.348Z",
+  "fetchedAt": "2026-11-14T14:11:54.455Z",
   "teams": [
     {
       "id": "68e7921aa180068a8c338a5d",
@@ -412,18 +418,18 @@
       "id": "6acc33789878872a963a1684",
       "date": "2026-11-14T06:30:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68e7921aa180068a8c338a5e",
         "pid": 3483,
         "name": "מ.ס. צעירי חיפה",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68d612211b7b720e58adef9a",
         "pid": 4265,
         "name": "מ.כ. צופי חיפה",
-        "goals": null
+        "goals": 0
       }
     },
     {
@@ -2033,19 +2039,6 @@
   "standings": [
     {
       "rank": 1,
-      "id": "68d612211b7b720e58adef9a",
-      "name": "מ.כ. צופי חיפה",
-      "games": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "gf": 10,
-      "ga": 5,
-      "gd": 5,
-      "points": 6
-    },
-    {
-      "rank": 2,
       "id": "68d612211b7b720e58adeeda",
       "name": "הפועל עמק הירדן",
       "games": 3,
@@ -2054,6 +2047,19 @@
       "losses": 1,
       "gf": 11,
       "ga": 8,
+      "gd": 3,
+      "points": 6
+    },
+    {
+      "rank": 2,
+      "id": "68d612211b7b720e58adef9a",
+      "name": "מ.כ. צופי חיפה",
+      "games": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "gf": 10,
+      "ga": 7,
       "gd": 3,
       "points": 6
     },
@@ -2098,6 +2104,19 @@
     },
     {
       "rank": 6,
+      "id": "68e7921aa180068a8c338a5e",
+      "name": "מ.ס. צעירי חיפה",
+      "games": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "gf": 6,
+      "ga": 9,
+      "gd": -3,
+      "points": 6
+    },
+    {
+      "rank": 7,
       "id": "68d612211b7b720e58adef2e",
       "name": "מ.כ. גליל גולן דרום צו פיוס",
       "games": 3,
@@ -2110,7 +2129,7 @@
       "points": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "68e7921aa180068a8c338a5d",
       "name": "מכבי נווה שאנן אלדד צו פיוס",
       "games": 2,
@@ -2123,7 +2142,7 @@
       "points": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "68d612211b7b720e58adeee1",
       "name": "הפועל ע. כרמיאל 2 צו פיוס",
       "games": 3,
@@ -2136,7 +2155,7 @@
       "points": 3
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "68e41d4a1db3a1ff6a0c0fa9",
       "name": "מכבי עירוני ק. אתא 2",
       "games": 2,
@@ -2149,7 +2168,7 @@
       "points": 3
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "68d612211b7b720e58adef8f",
       "name": "מ.ס. שפרעם",
       "games": 3,
@@ -2162,7 +2181,7 @@
       "points": 3
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "6ab9c8e2068ef07a1cafbc2a",
       "name": "מכבי ס.מעלות תרשיחא 2 צו פיוס",
       "games": 2,
@@ -2172,19 +2191,6 @@
       "gf": 4,
       "ga": 6,
       "gd": -2,
-      "points": 3
-    },
-    {
-      "rank": 12,
-      "id": "68e7921aa180068a8c338a5e",
-      "name": "מ.ס. צעירי חיפה",
-      "games": 2,
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "gf": 4,
-      "ga": 9,
-      "gd": -5,
       "points": 3
     },
     {

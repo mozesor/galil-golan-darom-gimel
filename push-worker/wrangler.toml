@@ -12,3 +12,7 @@ id = "48b24c8fbf3f4ba68747e7a209c5f7e2"
 ALLOWED_ORIGIN = "https://mozesor.github.io"
 VAPID_SUBJECT = "mailto:mozesor@gmail.com"
 SITE_URL = "https://mozesor.github.io/galil-golan-darom-gimel/"
+
+# 20/11/2026: drains the delivery queue (at most 40 pushes per run, free-plan subrequest limit)
+[triggers]
+crons = ["*/10 * * * *"]

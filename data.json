@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ג' מפרץ 1",
     "currentRound": 2
   },
-  "fetchedAt": "2026-11-21T15:18:29.130Z",
+  "fetchedAt": "2026-11-21T15:24:38.454Z",
   "teams": [
     {
       "id": "68e7921aa180068a8c338a5d",
@@ -490,18 +490,18 @@
       "id": "6acc33779878872a963a166a",
       "date": "2026-11-21T13:10:00.000Z",
       "round": 2,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68e7921aa180068a8c338a5e",
         "pid": 3483,
         "name": "מ.ס. צעירי חיפה",
-        "goals": null
+        "goals": 2
       },
       "away": {
         "id": "68d612211b7b720e58adef8f",
         "pid": 3757,
         "name": "מ.ס. שפרעם",
-        "goals": null
+        "goals": 2
       }
     },
     {

@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ג' מפרץ 1",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-22T08:48:05.564Z",
+  "fetchedAt": "2026-11-22T15:23:15.868Z",
   "teams": [
     {
       "id": "68e7921aa180068a8c338a5d",
@@ -546,24 +546,6 @@
       }
     },
     {
-      "id": "6acc33789878872a963a1690",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68e41d4a1db3a1ff6a0c0fa9",
-        "pid": 1620,
-        "name": "מכבי עירוני ק. אתא 2",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adef3e",
-        "pid": 1789,
-        "name": "מ.כ. כבביר",
-        "goals": null
-      }
-    },
-    {
       "id": "6acc33789878872a963a1692",
       "date": "2026-11-27T22:00:00.000Z",
       "round": 5,
@@ -673,6 +655,24 @@
         "id": "68d612211b7b720e58adeeda",
         "pid": 5850,
         "name": "הפועל עמק הירדן",
+        "goals": null
+      }
+    },
+    {
+      "id": "6acc33789878872a963a1690",
+      "date": "2026-11-28T08:45:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68e41d4a1db3a1ff6a0c0fa9",
+        "pid": 1620,
+        "name": "מכבי עירוני ק. אתא 2",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adef3e",
+        "pid": 1789,
+        "name": "מ.כ. כבביר",
         "goals": null
       }
     },

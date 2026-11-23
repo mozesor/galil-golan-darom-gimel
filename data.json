@@ -1,17 +1,17 @@
 {
   "rankChange": {
-    "from": 7,
-    "to": 8,
-    "points": 3,
+    "from": 8,
+    "to": 7,
+    "points": 4,
     "round": 4,
-    "at": "2026-11-22T08:48:05.564Z"
+    "at": "2026-11-23T12:33:02.764Z"
   },
   "league": {
     "id": 1364,
     "name": "ליגת ילדים ג' מפרץ 1",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-22T15:23:15.868Z",
+  "fetchedAt": "2026-11-23T12:33:02.764Z",
   "teams": [
     {
       "id": "68e7921aa180068a8c338a5d",
@@ -508,18 +508,18 @@
       "id": "6acc33789878872a963a1686",
       "date": "2026-11-22T17:00:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adef2e",
         "pid": 3675,
         "name": "מ.כ. גליל גולן דרום צו פיוס",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "id": "68d612211b7b720e58adeeb1",
         "pid": 5871,
         "name": "מ.ס. רשת מתנסים טבעון צו פיוס",
-        "goals": null
+        "goals": 3
       },
       "ifa": {
         "date": "2026-11-22",
@@ -560,24 +560,6 @@
         "id": "6ab9c8e2068ef07a1cafbc2a",
         "pid": 8051,
         "name": "מכבי ס.מעלות תרשיחא 2 צו פיוס",
-        "goals": null
-      }
-    },
-    {
-      "id": "6acc33789878872a963a1695",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68d612211b7b720e58adef8f",
-        "pid": 3757,
-        "name": "מ.ס. שפרעם",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adeec0",
-        "pid": 7336,
-        "name": "ה.מטה אשר 2",
         "goals": null
       }
     },
@@ -673,6 +655,24 @@
         "id": "68d612211b7b720e58adef3e",
         "pid": 1789,
         "name": "מ.כ. כבביר",
+        "goals": null
+      }
+    },
+    {
+      "id": "6acc33789878872a963a1695",
+      "date": "2026-11-28T13:35:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68d612211b7b720e58adef8f",
+        "pid": 3757,
+        "name": "מ.ס. שפרעם",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adeec0",
+        "pid": 7336,
+        "name": "ה.מטה אשר 2",
         "goals": null
       }
     },
@@ -2078,6 +2078,19 @@
     },
     {
       "rank": 4,
+      "id": "68d612211b7b720e58adeeb1",
+      "name": "מ.ס. רשת מתנסים טבעון צו פיוס",
+      "games": 3,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
+      "gf": 9,
+      "ga": 7,
+      "gd": 2,
+      "points": 7
+    },
+    {
+      "rank": 5,
       "id": "68e7921aa180068a8c338a5e",
       "name": "מ.ס. צעירי חיפה",
       "games": 4,
@@ -2090,7 +2103,7 @@
       "points": 7
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "68d612211b7b720e58adeeda",
       "name": "הפועל עמק הירדן",
       "games": 3,
@@ -2103,20 +2116,20 @@
       "points": 6
     },
     {
-      "rank": 6,
-      "id": "68d612211b7b720e58adeeb1",
-      "name": "מ.ס. רשת מתנסים טבעון צו פיוס",
-      "games": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "gf": 6,
-      "ga": 4,
-      "gd": 2,
-      "points": 6
+      "rank": 7,
+      "id": "68d612211b7b720e58adef2e",
+      "name": "מ.כ. גליל גולן דרום צו פיוס",
+      "games": 4,
+      "wins": 1,
+      "draws": 1,
+      "losses": 2,
+      "gf": 11,
+      "ga": 8,
+      "gd": 3,
+      "points": 4
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "68d612211b7b720e58adef8f",
       "name": "מ.ס. שפרעם",
       "games": 4,
@@ -2127,19 +2140,6 @@
       "ga": 13,
       "gd": -1,
       "points": 4
-    },
-    {
-      "rank": 8,
-      "id": "68d612211b7b720e58adef2e",
-      "name": "מ.כ. גליל גולן דרום צו פיוס",
-      "games": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "gf": 8,
-      "ga": 5,
-      "gd": 3,
-      "points": 3
     },
     {
       "rank": 9,
